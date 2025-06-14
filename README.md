@@ -1,18 +1,25 @@
 <h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+  <br>
+  Hi There! 👋 I'm Kislaya Agarwal! 🧠🚀
+</h1>
+
+<h3 align="center">An aspiring software developer from India, working to make life easier for people in India. 🇮🇳</h3>
+<h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kislaya+Agarwal!+🧠+🚀" />
 </h1>
-<h3 align="center">An aspiring software developer from India, working to make life of peoples in India easier. 🇮🇳</h3>
+
 
 <br />
 
 <div align="center">
 
-  🔨 I’m currently working on **mini projects & learning-focused repos**
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> I’m currently working on **mini projects & learning-focused repos**
 
-  🌱 I’m currently learning **Python and Web Development**
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="25" height="25" /> I’m currently learning **Python and Web Development**
 
-  💬 Ask me about **tech, DSA, or random fun facts [here](https://github.com/kislaya-06/kislaya-06/issues)**
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" /> Ask me about **tech, DSA, or random fun facts [here](https://github.com/kislaya-06/kislaya-06/issues)**
   <br />
 </div>
 
@@ -23,7 +30,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kislayaagarwal" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="kislayaagarwal" height="30" width="40" /></a>
+      alt="kislayaagarwal" height="30 width="40" /></a>
   <a href="https://instagram.com/kislaya_ak" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="kislaya_ak" height="30" width="40" /></a>
@@ -40,7 +47,7 @@
 <p align="center">
   - 📫 Reach me: agarwalkislaya@gmail.com  
   <a href="mailto:agarwalkislaya@gmail.com">
-    <img alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+    <img alt="Gmail" width="25px" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" />
   </a>
 </p>
 

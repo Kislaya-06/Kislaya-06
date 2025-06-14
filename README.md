@@ -79,7 +79,7 @@
 
 <hr />
 <p align="center">
-  <img src="[https://media.giphy.com/media/3og0IFip0zn2loy5l6/giphy.gif](https://camo.githubusercontent.com/6734f2ee8d6fb71cdb94b3b6ccdec8aa9e86f15c17777b6d61bdbcbd276d28b5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c344647703446436347597377506e724f2f67697068792e676966)" alt="Thanks!" />
+  <img src="(https://camo.githubusercontent.com/6734f2ee8d6fb71cdb94b3b6ccdec8aa9e86f15c17777b6d61bdbcbd276d28b5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c344647703446436347597377506e724f2f67697068792e676966)" alt="Thanks!" />
 </p>
 
 <hr />

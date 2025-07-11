@@ -83,7 +83,5 @@
 </p>
 
 <hr />
-<h4 align="center">👁️ Visitor Count</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{kislaya-06}/count.svg" alt="kislaya-06 :: Visitor's Count" />
+
 </p>
